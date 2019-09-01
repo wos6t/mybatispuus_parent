@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus_gen/mybatisplus_gen.iml" filepath="$PROJECT_DIR$/mybatisplus_gen/mybatisplus_gen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatispuus_parent.iml" filepath="$PROJECT_DIR$/mybatispuus_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user_provider/user_provider.iml" filepath="$PROJECT_DIR$/user_provider/user_provider.iml" />
+    </modules>
+  </component>
+</project>

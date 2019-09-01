@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: hrm-user
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/hrm_user
+    username: root
+    password: admin #密码
+mybatis-plus:
+  mapper-locations: classpath:com/tzq/hrm/mapper/*Mapper.xml
+  type-aliases-package: com.tzq.hrm.domain,com.tzq.hrm.query
